@@ -1,61 +1,66 @@
-Hello, I'm Maycon 👋
+Olá, sou Maycon 👋
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-👨‍💻 Cybersecurity enthusiast and low-level developer.
-🔍 Passionate about understanding how systems work under the hood.
-🛡️ Interested in reverse engineering, software protection, and binary analysis.
-⚙️ I enjoy both breaking and building defenses, from obfuscation to integrity checks.
+👨‍💻 Entusiasta de cibersegurança e desenvolvedor de baixo nível.
 
-Always open to collaborate on technical, challenging, and unconventional projects.
+🔍 Apaixonado por entender como os sistemas funcionam internamente.
 
----
+🛡️ Interessado em engenharia reversa, proteção de software e análise binária.
 
-## 🔐 Cybersecurity Interests
+⚙️ Gosto tanto de quebrar quanto de construir defesas, desde ofuscação até verificações de integridade.
 
-* 🧬 Reverse Engineering (static & dynamic analysis)
-* 🧱 Software Protection & Anti-Tamper techniques
-* 🧾 Binary formats, headers, and file structures
-* 🔑 Cryptography (XOR, custom schemes, integrity validation)
-* 🧪 Hex analysis and low-level debugging
+Sempre aberto a colaborar em projetos técnicos, desafiadores e não convencionais.
 
 ---
 
-## 🖥️ Tech Stack
+## 🔐 Interesses em Segurança Cibernética
 
-* **C / C++** – low-level systems, performance, binaries
-* **Python** – automation, tooling, GUIs, analysis scripts
-* **C#** – Windows applications and security tools
-* **JavaScript / Node.js** – tooling backends and automation
+* 🧬 Engenharia Reversa (análise estática e dinâmica)
+* 🧱 Proteção de Software e técnicas Anti-Adulteração
+* 🧾 Formatos binários, cabeçalhos e estruturas de arquivos
+* 🔑 Criptografia (XOR, esquemas personalizados, validação de integridade)
+* 🧪 Análise hexadecimal e depuração de baixo nível
 
 ---
 
-## 🧰 Tools I Like
+## 🖥️ Tecnologias Utilizadas
+
+* **C / C++** – sistemas de baixo nível, desempenho, binários
+* **Python** – automação, ferramentas, GUIs, scripts de análise
+* **C#** – aplicativos Windows e ferramentas de segurança
+* **JavaScript / Node.js** – backends de ferramentas e automação
+
+---
+
+## 🧰 Ferramentas que eu gosto
 
 * Ghidra / IDA
 * x64dbg / WinDbg
-* Hex Editors & Binary Analyzers
-* PyInstaller, .NET tooling
+* Editores Hexadecimais e Analisadores Binários
+* PyInstaller, ferramentas .NET
 
 ---
 
-## ☁️ Platforms & Environment
+## ☁️ Plataformas e Ambiente
 
-* Windows-focused tooling
-* Custom file formats & compression
-* ZIP, Zlib, Zstandard handling
-
----
-
-## 🎯 Mindset
-
-Cybersecurity is a silent chess match.
-Every protection tells a story.
-My goal is to read it, understand it, and improve it.
-
-Nothing here is about abuse.
-Everything is about knowledge, control, and mastery of systems.
+* Ferramentas focadas no Windows
+* Formatos de arquivo e compressão personalizados
+* Manipulação de ZIP, Zlib e Zstandard
 
 ---
 
-📬 Feel free to reach out or invite me to collaborate on security-focused projects.
+## 🎯 Mentalidade
+
+A cibersegurança é um jogo de xadrez silencioso.
+
+Cada proteção conta uma história.
+
+Meu objetivo é lê-la, entendê-la e aprimorá-la.
+
+Nada aqui se trata de abuso.
+
+Tudo se resume a conhecimento, controle e domínio dos sistemas.
+
+---
+📬 Sinta-se à vontade para entrar em contato ou me convidar para colaborar em projetos focados em segurança.
